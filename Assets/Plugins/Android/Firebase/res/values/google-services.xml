@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://badbugs-165809.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">766288140272</string>
+  <string name="google_storage_bucket" translatable="false">badbugs-165809.appspot.com</string>
+  <string name="project_id" translatable="false">badbugs-165809</string>
+  <string name="google_api_key" translatable="false">AIzaSyCCpHz5hhlU3Tbn9qaLc2UEu0DaE4hzFWo</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCpHz5hhlU3Tbn9qaLc2UEu0DaE4hzFWo</string>
+  <string name="google_app_id" translatable="false">1:766288140272:android:129854b3de242226</string>
+  <string name="default_web_client_id" translatable="false">766288140272-84m77iuf37k1o15vgnoh69bvlas0rfp8.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">766288140272-s5m42sfggiahrdtet0c0nevvqrict6ns.apps.googleusercontent.com</string>
+</resources>
